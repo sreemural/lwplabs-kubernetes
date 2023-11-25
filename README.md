@@ -1,3 +1,4 @@
 # lwplabs-kubernetes
 Repo for Kubernetes workshop
-Learning rebase Learning LC
+Learning rebase
+Learning merge conflict  learning MC
